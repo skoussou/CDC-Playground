@@ -1,8 +1,6 @@
-
-
 = rhpam-cdc-service
 
-Retrieves messages from KAFKA Topic (defined in search for @Incoming)
+Retrieves RHPAM Events from KAFKA Topic (defined in search for @Incoming)
 
 1. RHPAM TaskVariableImpl
 
