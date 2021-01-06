@@ -1,6 +1,6 @@
 = rhpam-cdc-service
 
-Retrieves RHPAM Events from KAFKA Topic (defined in search for @Incoming)
+Retrieves RHPAM Events from KAFKA Topic (defined in search for @Incoming). Code inspirations https://github.com/debezium/debezium-examples
 
 1. RHPAM TaskVariableImpl
 
