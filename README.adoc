@@ -1,4 +1,4 @@
 # Change Data Capgure Playground
 Contains Applications related to Change Data Capture (Debezium and beyond)
 
-* .rhpam-cdc-service/README.adoc[rhpam-cdc-service]: Reads RHPAM DB Events via DBZ Kafka Connector
+* ./rhpam-cdc-service/README.adoc[rhpam-cdc-service]: Reads RHPAM DB Events via DBZ Kafka Connector
