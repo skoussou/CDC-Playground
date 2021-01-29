@@ -281,7 +281,7 @@ image::images/RHPAM-DB-KAFKA-CDC-APP-DB.jpeg[800,800]
 
 == RHPAM Task Variable Events CDC to Kafka Setup
 
-For more detailed setup information, decisions, debugging look into link:https://github.com/skoussou/cdc-playground/tree/main/rhpam-cdc-service/RHPAM Task Variable Events CDC to Kafka.pdf[RHPAM Task Variable Events CDC to Kafka.pdf]
+For more detailed setup information, decisions, debugging look into link:++https://github.com/skoussou/cdc-playground/tree/main/rhpam-cdc-service/RHPAM Task Variable Events CDC to Kafka.pdf++[RHPAM Task Variable Events CDC to Kafka.pdf]
 
 === Prepare Environment
 
